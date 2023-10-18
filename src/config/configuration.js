@@ -1,1 +1,1 @@
-export const appname = "VOXCALL"
+export const appname = "VOXXCALL"
